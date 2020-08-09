@@ -1,0 +1,23 @@
+{
+  "name": "array-madness",
+  "version": "1.0.0",
+  "description": "Learning Array's",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CODEHUSTLE/array-madness.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CODEHUSTLE/array-madness/issues"
+  },
+  "homepage": "https://github.com/CODEHUSTLE/array-madness#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
